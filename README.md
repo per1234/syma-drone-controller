@@ -1,5 +1,5 @@
 # syma-drone-controller
-Arduino library and Python serial interface to control a Syma X1C programatically
+Arduino sketch and Python serial interface to control a Syma X1C programatically
 
 
 Based off of controller code found here: https://github.com/goebish/nrf24_multipro
